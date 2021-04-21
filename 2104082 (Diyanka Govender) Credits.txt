@@ -1,0 +1,31 @@
+SOUNDS USED IN MICROPROJECT
+
+DAMAGE SOUND
+OldSchool1 by The Motion Monkey
+Free to Use 
+Link:https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/ 
+
+HEAL SOUND
+OldSchool2 by The Motion Monkey
+Free to Use 
+Link:https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/
+
+BUTTON CLICK
+zapsplat_multimedia_button_click_fast_plastic_49161 by Zapsplat
+Standard License 
+Link: https://www.zapsplat.com/music/button-click-fast-plastic/
+
+CARD CLICK
+pm_pos_fuji_mkh8040_110_camera_shutter_release_button_click_press_282 by Zapsplat
+Standard License
+Link:https://www.zapsplat.com/music/fuji-camera-shutter-release-button-press-click/
+
+LOSE SOUND
+cartoon_fail_trumpet_002 by Zapsplat
+Standard License
+Link:https://www.zapsplat.com/music/cartoon-fail-or-sad-trumpet-2/ 
+
+WIN SOUND
+cartoon_success_fanfair by Zapsplat
+Standard License
+Link:https://www.zapsplat.com/music/cartoon-success-fanfare/
